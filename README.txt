@@ -1,0 +1,1 @@
+A growing list of my favorite quotations.
