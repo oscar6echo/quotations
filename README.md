@@ -1,6 +1,6 @@
 # A (growing) list of my favorite quotes.
 
-See [oscar6echo.github.io/Quotations](http://oscar6echo.github.io/Quotations)
+See [oscar6echo.github.io/quotations](http://oscar6echo.github.io/Quotations)
 
 ## Dev
 
