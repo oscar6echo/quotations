@@ -10,5 +10,5 @@ See [oscar6echo.github.io/Quotations](http://oscar6echo.github.io/Quotations)
 
   ```bash
   git add . && git commit -m "Update" && git push
-  git push -f origin master:gh-pages
+  git push -f origin main:gh-pages
   ```
